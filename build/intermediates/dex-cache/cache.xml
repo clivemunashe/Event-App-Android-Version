@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.android/build-cache/9f742c1ecf4bf01cde2689ebb16e2b56cfcba352/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="62e71cc187cfcb1ba382b05c5f39f5d903973656">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_546dd445c23ead782ba412484ee684e834fb851b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_d0f0d8068db5b0e99d9dc052694582a42478f221/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.android/build-cache/08cc62d820cc7a8dfa53630a02ec9d74d014cab0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7103318ab8a16fe56a325b7554b088f4d49e4700">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_421a00677a0f7c2cd285c28aba76c629ec4bceb6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.android/build-cache/dffc53d2fa273625ba1b9cf688c029ea0d2600bb/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3cc2f9f5bdd5502c89d274043c62354660b3d71f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.android/build-cache/5d3b2e8c11eedd3b45357f7cb11bf0ede286ee5f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="e616b95568c5f38322799069485eb73f68ffec0a">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cb7a34c3b2aaaad492f56a5d5d9388f950dcd9b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/27.0.0/a7782471b2a0de8fec071b8094a8aaf61c46ab70/support-annotations-27.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a7782471b2a0de8fec071b8094a8aaf61c46ab70">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-27.0.0_ce1cd3f17c88d0c4c3192d4947b9fffa440edbac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="f193af2da6544375966163f27bf030bcb6ce47d5">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea557d9aa67bb2b637c1f563e26528658c16abea/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.android/build-cache/f05117659c28ff24ea4dcf2eac0cc0e33daef82d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9e3177fae918dbe4e58eccf197cfb56bfaf59803">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b080a899739b008c346098831df0eefe6d92b465/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.android/build-cache/ca462c8ebbe7bfb66550a8e3a61c30badadabd51/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cf7abe2a43ffb1d475e94d0877ef3abb95fff56e">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f413d949447edbb03f8a543ddc97e9041ae8efc1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.android/build-cache/70866167099849df7b510e8ccda4d413b7eeb044/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="89172db744f643c670ee7f9620b39ed460bc23fb">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72b9753ddf317fd3380a620645432432ec855bb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.android/build-cache/9e7e480b404e0fb8d1fdbcd5bd1c9cf3b04fc7c1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0e97fa8abc1a1a90087ce8b093d11f1a8e0f1214">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0bacc5704e9bc19f4820e81715cea5bb0631de29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10/common-1.0.0_21b4709e0bee17c2a9e83b9807df9eda5e506f61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/clive/Desktop/Android/MyApplication4/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3d2678866b328a0cdbcc2d0663845735c6ed5e6c/classes.dex" />
+    </item>
+
+</items>
